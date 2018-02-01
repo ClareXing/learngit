@@ -1,4 +1,4 @@
 git is a version control system
 git is free software
 do something change the file 
-then use git to control it 
+the third time to change the file 
